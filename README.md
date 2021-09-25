@@ -1,3 +1,10 @@
+npx degit sveltejs/template .  --- install svelte template in current dir
+npm install --- install dependencies
+npm run build -- build any change in js file.
+add the dot in index.html because ghpages follow relative path
+git subtree push --prefix public/ origin gh-pages --- pushing from public dir to branch github pages
+
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
